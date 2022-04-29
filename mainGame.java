@@ -1,8 +1,4 @@
 /*
-Programmers: Tsaqif Insani, Gracia Winata, Elaine Hsu
-Date: 26 April 2022;
-Class: CS 145 
-Assignment: Lab 4 deck of cards 
 Purpose of this program: to play a game of 'cangkul' a local game from our home country Indonesia
 notes: 
   We've separated the code for the cangkul game itself into a package of their own called 'cangkulgame'. 
